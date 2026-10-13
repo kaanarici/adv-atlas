@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4a72bd"/><stop offset="1" stop-color="#3256a0"/></linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7f8fa"/><stop offset="1" stop-color="#eef1f7"/></linearGradient>
+  </defs>
+  <rect width="1280" height="400" rx="28" fill="url(#bg)"/>
+  <g transform="translate(96 108) scale(2.875)">
+    <rect width="64" height="64" rx="14" fill="#3c61a7"/>
+    <g><rect x="13" y="13" width="10" height="10" rx="2.5" fill="#fff"/><rect x="27" y="13" width="10" height="10" rx="2.5" fill="#fff"/><rect x="41" y="13" width="10" height="10" rx="2.5" fill="#fff"/><rect x="13" y="27" width="10" height="10" rx="2.5" fill="#fff"/><rect x="27" y="27" width="10" height="10" rx="2.5" fill="#fff"/><rect x="41" y="27" width="10" height="10" rx="2.5" fill="#fff" fill-opacity="0.42"/><rect x="13" y="41" width="10" height="10" rx="2.5" fill="#fff"/><rect x="27" y="41" width="10" height="10" rx="2.5" fill="#fff" fill-opacity="0.42"/></g>
+  </g>
+  <text x="330" y="190" font-family="Manrope, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-2" fill="#0f172a">Fund Census</text>
+  <text x="333" y="248" font-family="Manrope, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="500" fill="#475569">Every SEC adviser, private fund, owner and service provider.</text>
+  <text x="333" y="292" font-family="Manrope, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="500" fill="#3c61a7">Web app  ·  JSON API  ·  MCP server  ·  ChatGPT and Claude plugins</text>
+</svg>

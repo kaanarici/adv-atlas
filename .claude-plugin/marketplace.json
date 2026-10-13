@@ -1,0 +1,14 @@
+{
+  "name": "fund-census",
+  "description": "Fund Census for Claude: SEC filings on investment advisers, private funds, owners, service providers, fundraising and holdings.",
+  "owner": { "name": "Fund Census", "url": "https://github.com/kaanarici/fundcensus" },
+  "plugins": [
+    {
+      "name": "fund-census",
+      "source": "./plugins/fund-census",
+      "description": "Remote MCP server plus a skill for SEC Form ADV, Form D, Form 13F, Schedule 13D/13G, Forms 4/5, N-CEN and N-PORT lookups, screens, rankings and filing changes.",
+      "category": "data",
+      "tags": ["sec", "form-adv", "form-13f", "form-d", "investment-advisers", "private-funds"]
+    }
+  ]
+}

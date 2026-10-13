@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "fund-census": {
+      "type": "http",
+      "url": "https://fundcensus.com/mcp"
+    }
+  }
+}
